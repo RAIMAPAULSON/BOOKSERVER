@@ -1,0 +1,184 @@
+{
+  "books": [
+    {
+      "id": "BOOK001",
+      "title": "The Alchemist",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTThrz5BOnZ2ZFIoCno5l5cSpIfwsPybtGRZw&s",
+      "category": "fiction",
+      "price": 347,
+      "description": "A The Alchemist (1988) follows the story of a young Andalusian shepherd, who travels to the pyramids of Egypt to find a treasure he has recurrently dreamed about. ",
+      "author": "Paulo Coelho"
+    },
+    {
+      "id": "BOOK002",
+      "title": "Atomic Habits",
+      "image": "https://jamesclear.com/wp-content/uploads/2022/09/9M-atomic-habits-dots.png",
+      "category": "non-fiction",
+      "price": 463,
+      "description": "Atomic Habits by James Clear is a book that talks about the power of small habits in creating lasting changes in your life. Unlike generic and repetitive motivational books, this book tells you that real change comes from countless small decisions, not just motivation.",
+      "author": "James Clear"
+    },
+    {
+      "id": "BOOK013",
+      "title": "The Lord of the Rings",
+      "image": "https://orion-uploads.openroadmedia.com/md_f7e651-tolkien-lordoftherings.jpg",
+      "category": "fantasy",
+      "price": 300,
+      "description": "The Lord of the Rings is the saga of a group of sometimes reluctant heroes who set forth to save their world from consummate evil",
+      "author": "J. R. R. Tolkien"
+    },
+    {
+      "id": "BOOK120",
+      "title": "To kill a mocking bird",
+      "image": "https://qph.cf2.quoracdn.net/main-qimg-9453af8ac5c258368110c598704871d3.webp",
+      "category": "fiction",
+      "price": 320,
+      "description": "To Kill a Mockingbird is a 1961 novel by Harper Lee. Set in small-town Alabama, the novel is a bildungsroman, or coming-of-age story, and chronicles the childhood of Scout and Jem Finch as their father Atticus defends a Black man falsely accused of rape. Scout and Jem are mocked by classmates for this.",
+      "author": "Harper Lee"
+    },
+    {
+      "id": "BOOK122",
+      "title": "A Brief History of Time",
+      "image": "https://m.media-amazon.com/images/I/91ebghaV-eL._AC_UF1000,1000_QL80_.jpg",
+      "category": "science",
+      "price": 850,
+      "description": " A Brief History of Time: From the Big Bang to Black Holes is a book on theoretical cosmology by the physicist Stephen Hawking. It was first published in 1988. Hawking wrote the book for readers who had no prior knowledge of physics. ",
+      "author": "Stephen Hawking"
+    },
+    {
+      "id": "BOOK124",
+      "title": "The Discovery of India",
+      "image": "https://m.media-amazon.com/images/I/61zZzKlLleL._AC_UF1000,1000_QL80_.jpg",
+      "category": "history",
+      "price": 595,
+      "description": "This book was written by Pandit Jawaharlal Nehru during his incarceration at the Ahmednagar Fort (1942-1946), and provides a broad view of Indian history, philosophy and culture, from the prerspective of a freedom fighter. ",
+      "author": "Jawaharlal Nehru"
+    },
+    {
+      "id": "BOOK125",
+      "category": "biography",
+      "title": "The Story of Tata",
+      "image": "https://m.media-amazon.com/images/I/71nzPNcotWL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Headquarters are in Mumbai. The Tata Group was founded as a private trading firm in 1868 by entrepreneur and philanthropist Jamsetji Nusserwanji Tata. In 1902 the group incorporated the Indian Hotels Company to commission the Taj Mahal Palace & Tower, the first luxury hotel in India, which opened the following year.",
+      "price": 450,
+      "author": "Peter Casey"
+    },
+    {
+      "id": "BOOK131",
+      "title": "The Book of Life",
+      "category": "philosophy",
+      "price": 420,
+      "author": " J KRISHNAMUIRTI",
+      "image": "https://m.media-amazon.com/images/I/51MB4Tc-cFL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A book of meditation and inspiration which presents passages on a new theme for each week of the year, with each topic developed over seven days. Topics covered include self-knowledge, desire, sorrow, death and meditation."
+    },
+    {
+      "id": "BOOK129",
+      "image": "https://m.media-amazon.com/images/I/81KVRenYv+L._AC_UF1000,1000_QL80_.jpg",
+      "title": "Here, There and Everywhere",
+      "category": "biography",
+      "author": "Sudha Murty",
+      "price": 199,
+      "description": "Here, There and Everywhere is a celebration of her literary journey and is her 200th title across genres and languages. Bringing together her best-loved stories from various collections alongside some new ones and a thoughtful introduction, here is a book that is, in every sense, as multifaceted as its author."
+    },
+    {
+      "id": "BOOK144",
+      "title": "Wings of Fire",
+      "category": "autobiography",
+      "price": 299,
+      "description": " The autobiography of Dr. A.P.J. Abdul Kalam, detailing his journey from humble beginnings to becoming the President of India and a renowned aerospace scientist.",
+      "author": "A.P.J. Abdul Kalam",
+      "image": "https://cdn.kobo.com/book-images/3873f2bd-f1f3-4712-aa76-051b1125d4ea/1200/1200/False/wings-of-fire-an-autobiography-digital-exclusive-edition.jpg"
+    },
+    {
+      "id": "BOOK149",
+      "title": "My Experiments with Truth",
+      "category": "autobiography",
+      "price": 350,
+      "description": " The life story of Mahatma Gandhi, covering his early years, his time in South Africa, and his role in India's independence movement.",
+      "author": "Mahatma Gandhi",
+      "image": "https://www.jaicobooks.com/wp-content/uploads/2022/12/j-1755-my-experiments-with-truth-an-autobiography-m-k-gandhi.jpg"
+    },
+    {
+      "id": "BOOK141",
+      "title": "The White Tiger",
+      "category": "fiction",
+      "price": 350,
+      "description": "A darkly humorous novel about a man's journey from village life to entrepreneurial success in modern India.",
+      "author": " Aravind Adiga",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2022/12/ME/FG/YH/76066768/the-white-tiger.jpg"
+    },
+    {
+      "id": "BOOK133",
+      "title": "The Great Indian Novel",
+      "category": "fiction",
+      "price": 450,
+      "description": "A satirical novel that reimagines the Mahabharata set against the backdrop of the Indian Independence movement.",
+      "author": "Shashi Tharoor",
+      "image": "https://m.media-amazon.com/images/I/81Lfw-skUsL._AC_UF350,350_QL50_.jpg"
+    },
+    {
+      "id": "BOOK134",
+      "category": "self-help",
+      "description": "\"Ikigai\" is a fascinating book that explores the Japanese concept of \"ikigai,\" which translates to \"a reason for being.\" The authors, Héctor García and Francesc Miralles, delve into the lifestyle and philosophy of the residents of Okinawa, Japan, who are known for their longevity and happiness. The book combines insights from the fields of psychology, philosophy, and health to provide readers with practical advice on finding their own ikigai, leading to a more fulfilling and purposeful life. Through various case studies, personal anecdotes, and actionable tips, \"Ikigai\" offers a roadmap to discover what brings joy and meaning to life.",
+      "title": "Ikigai",
+      "price": 350,
+      "author": "Héctor García and Francesc Miralles",
+      "image": "https://m.media-amazon.com/images/I/81l3rZK4lnL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "BOOK106",
+      "category": "autobiography",
+      "description": " The inspiring story of Malala Yousafzai, the Pakistani activist for female education and the youngest Nobel Prize laureate.",
+      "title": "I Am Malala",
+      "price": 450,
+      "author": "Malala Yousafzai with Christina Lamb",
+      "image": "https://m.media-amazon.com/images/I/71IQGD4MRtL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "BOOK107",
+      "category": "autobiography",
+      "description": "The autobiography of cricket legend Sachin Tendulkar, detailing his life, career, and milestones in the world of cricket.",
+      "title": "Playing It My Way",
+      "price": 599,
+      "author": "Sachin Tendulkar",
+      "image": "https://www.eurekabookstore.com/public/uploads/products/2022/06/12532/wayway_.jpg"
+    },
+    {
+      "id": "BOOK109",
+      "category": "fantasy",
+      "description": "The first book in the Harry Potter series, introducing readers to the magical world of Hogwarts.",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "price": 499,
+      "author": "J.K.Rowling",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg"
+    },
+    {
+      "id": "BOOK117",
+      "category": "science",
+      "description": "A science fiction epic set on the desert planet Arrakis, focusing on politics, religion, and power.",
+      "title": "Dune",
+      "price": 599,
+      "author": "Frank Herbert",
+      "image": "https://rukminim2.flixcart.com/image/850/1000/k6l2vm80/book/1/9/6/dune-original-imaeru6zh5kdrdg2.jpeg?q=90&crop=false"
+    },
+    {
+      "id": "BOOK118",
+      "category": "science",
+      "description": "A science fiction epic set on the desert planet Arrakis, focusing on politics, religion, and power.",
+      "title": "Dune",
+      "price": 599,
+      "author": "Frank Herbert",
+      "image": "https://rukminim2.flixcart.com/image/850/1000/k6l2vm80/book/1/9/6/dune-original-imaeru6zh5kdrdg2.jpeg?q=90&crop=false"
+    },
+    {
+      "id": "BOOK147",
+      "title": "HJAK",
+      "image": "AKJAL",
+      "description": "ASJAJS",
+      "category": "philosophy",
+      "price": 429,
+      "author": "HHAHAH"
+    }
+  ]
+}
